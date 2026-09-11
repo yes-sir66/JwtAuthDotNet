@@ -1,4 +1,5 @@
-﻿namespace JwtAuthDotNetAPI.Models
+﻿namespace JwtAuthDotNetAPI.DTOs
+
 {
     public class RefreshTokenRequestDto
     {
